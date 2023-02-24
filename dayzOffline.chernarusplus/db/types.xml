@@ -190,7 +190,7 @@
 		<category name="tools"/>
 		<usage name="Military"/>
 	</type>
-	<type name="AKM">
+	<type name="AKM">	<!--	ECONOMIA	-->
 		<nominal>2</nominal>
 		<lifetime>14400</lifetime>
 		<restock>3600</restock>
@@ -416,7 +416,7 @@
 		<category name="tools"/>
 		<usage name="Military"/>
 	</type>
-	<type name="AK_Suppressor">
+	<type name="AK_Suppressor">	<!--	ECONOMIA	-->
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -502,7 +502,7 @@
 		<category name="tools"/>
 		<usage name="Military"/>
 	</type>
-	<type name="ASVAL">
+	<type name="ASVAL">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
@@ -1078,7 +1078,7 @@
 		<usage name="Town"/>
 		<usage name="Village"/>
 	</type>
-	<type name="Ammo_40mm_Chemgas">
+	<type name="Ammo_40mm_Chemgas">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>14400</lifetime>
 		<restock>3600</restock>
@@ -1091,7 +1091,7 @@
 		<usage name="ContaminatedArea"/>
 		<usage name="Underground"/>
 	</type>
-	<type name="Ammo_40mm_Explosive">
+	<type name="Ammo_40mm_Explosive">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>14400</lifetime>
 		<restock>3600</restock>
@@ -2205,7 +2205,7 @@
 		<usage name="Town"/>
 		<usage name="School"/>
 	</type>
-	<type name="Aug">
+	<type name="Aug">	<!--	ECONOMIA	-->
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -2221,7 +2221,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="AugShort">
+	<type name="AugShort">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -2263,7 +2263,7 @@
 		<usage name="Village"/>
 		<usage name="Prison"/>
 	</type>
-	<type name="B95">
+	<type name="B95">	<!--	ECONOMIA	-->
 		<nominal>30</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -3497,7 +3497,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="BookBible">
+	<type name="BookBible">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -3920,7 +3920,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="tools"/>
 	</type>
-	<type name="CZ527">
+	<type name="CZ527">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>900</restock>
@@ -3935,7 +3935,7 @@
 		<usage name="Village"/>
 		<value name="Tier1"/>
 	</type>
-	<type name="CZ527_Black">
+	<type name="CZ527_Black">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>900</restock>
@@ -3950,7 +3950,7 @@
 		<usage name="Village"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="CZ527_Camo">
+	<type name="CZ527_Camo">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>900</restock>
@@ -3965,7 +3965,7 @@
 		<usage name="Village"/>
 		<value name="Tier2"/>
 	</type>
-	<type name="CZ527_Green">
+	<type name="CZ527_Green">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>900</restock>
@@ -3980,7 +3980,7 @@
 		<usage name="Village"/>
 		<value name="Tier3"/>
 	</type>
-	<type name="CZ550">
+	<type name="CZ550">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -4392,7 +4392,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="food"/>
 	</type>
-	<type name="Cassette">
+	<type name="Cassette">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
@@ -4668,7 +4668,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="CigarettePack_Chernamorka">
+	<type name="CigarettePack_Chernamorka">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
@@ -4686,7 +4686,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="CigarettePack_Merkur">
+	<type name="CigarettePack_Merkur">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
@@ -4704,7 +4704,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="CigarettePack_Partyzanka">
+	<type name="CigarettePack_Partyzanka">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
@@ -5220,7 +5220,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="ClaymoreMine">
+	<type name="ClaymoreMine">	<!--	ECONOMIA	-->
 		<nominal>6</nominal>
 		<lifetime>14400</lifetime>
 		<restock>3600</restock>
@@ -6466,7 +6466,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="clothes"/>
 	</type>
-	<type name="FAL">
+	<type name="FAL">	<!--	ECONOMIA	-->
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
@@ -6478,7 +6478,7 @@
 		<category name="weapons"/>
 		<usage name="Special"/>
 	</type>
-	<type name="FAMAS">
+	<type name="FAMAS">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -7793,7 +7793,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="GhillieSuit_Mossy">
+	<type name="GhillieSuit_Mossy">	<!--	ECONOMIA	-->
 		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>7200</restock>
@@ -7806,7 +7806,7 @@
 		<usage name="Special"/>
 		<usage name="Underground"/>
 	</type>
-	<type name="GhillieSuit_Tan">
+	<type name="GhillieSuit_Tan">	<!--	ECONOMIA	-->
 		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>7200</restock>
@@ -7819,7 +7819,7 @@
 		<usage name="Special"/>
 		<usage name="Underground"/>
 	</type>
-	<type name="GhillieSuit_Woodland">
+	<type name="GhillieSuit_Woodland">	<!--	ECONOMIA	-->
 		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>7200</restock>
@@ -8293,7 +8293,7 @@
 		<usage name="Farm"/>
 		<usage name="Village"/>
 	</type>
-	<type name="Grenade_ChemGas">
+	<type name="Grenade_ChemGas">	<!--	ECONOMIA	-->
 		<nominal>5</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
@@ -9900,7 +9900,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="tools"/>
 	</type>
-	<type name="ImprovisedSuppressor">
+	<type name="ImprovisedSuppressor">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -10388,7 +10388,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="food"/>
 	</type>
-	<type name="LandMineTrap">
+	<type name="LandMineTrap">	<!--	ECONOMIA	-->
 		<nominal>20</nominal>
 		<lifetime>604800</lifetime>
 		<restock>5400</restock>
@@ -10980,7 +10980,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="food"/>
 	</type>
-	<type name="M16A2">
+	<type name="M16A2">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -11054,7 +11054,7 @@
 		<category name="explosives"/>
 		<usage name="Military"/>
 	</type>
-	<type name="M4A1">
+	<type name="M4A1">	<!--	ECONOMIA	-->
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -11069,7 +11069,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="M4A1_Black">
+	<type name="M4A1_Black">	<!--	ECONOMIA	-->
 		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
@@ -11082,7 +11082,7 @@
 		<usage name="Special"/>
 		<usage name="Underground"/>
 	</type>
-	<type name="M4A1_Green">
+	<type name="M4A1_Green">	<!--	ECONOMIA	-->
 		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
@@ -11203,7 +11203,7 @@
 		<category name="tools"/>
 		<usage name="Military"/>
 	</type>
-	<type name="M4_Suppressor">
+	<type name="M4_Suppressor">	<!--	ECONOMIA	-->
 		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -11278,7 +11278,7 @@
 		<category name="clothes"/>
 		<usage name="Military"/>
 	</type>
-	<type name="M67Grenade">
+	<type name="M67Grenade">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -11304,7 +11304,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="M79">
+	<type name="M79">	<!--	ECONOMIA	-->
 		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -11344,7 +11344,7 @@
 		<usage name="Village"/>
 		<value name="Tier1"/>
 	</type>
-	<type name="MP5K">
+	<type name="MP5K">	<!--	ECONOMIA	-->
 		<nominal>25</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
@@ -11468,7 +11468,7 @@
 		<usage name="Military"/>
 		<usage name="Police"/>
 	</type>
-	<type name="Mag_AK101_30Rnd">
+	<type name="Mag_AK101_30Rnd">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>900</restock>
@@ -11482,7 +11482,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Mag_AK101_30Rnd_Black">
+	<type name="Mag_AK101_30Rnd_Black">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -11494,7 +11494,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_AK101_30Rnd_Green">
+	<type name="Mag_AK101_30Rnd_Green">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -11506,7 +11506,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_AK74_30Rnd">
+	<type name="Mag_AK74_30Rnd">	<!--	ECONOMIA	-->
 		<nominal>25</nominal>
 		<lifetime>28800</lifetime>
 		<restock>900</restock>
@@ -11521,7 +11521,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Mag_AK74_30Rnd_Black">
+	<type name="Mag_AK74_30Rnd_Black">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -11533,7 +11533,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_AK74_30Rnd_Green">
+	<type name="Mag_AK74_30Rnd_Green">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -11545,7 +11545,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_AK74_45Rnd">
+	<type name="Mag_AK74_45Rnd">	<!--	ECONOMIA	-->
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -11560,7 +11560,7 @@
 		<value name="Tier4"/>
 		<value name="Unique"/>
 	</type>
-	<type name="Mag_AKM_30Rnd">
+	<type name="Mag_AKM_30Rnd">	<!--	ECONOMIA	-->
 		<nominal>8</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -11574,7 +11574,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Mag_AKM_Drum75Rnd">
+	<type name="Mag_AKM_Drum75Rnd">	<!--	ECONOMIA	-->
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -11589,7 +11589,7 @@
 		<usage name="Underground"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Mag_AKM_Drum75Rnd_Black">
+	<type name="Mag_AKM_Drum75Rnd_Black">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -11601,7 +11601,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_AKM_Drum75Rnd_Green">
+	<type name="Mag_AKM_Drum75Rnd_Green">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -11613,7 +11613,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_AKM_Palm30Rnd">
+	<type name="Mag_AKM_Palm30Rnd">	<!--	ECONOMIA	-->
 		<nominal>8</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -11627,7 +11627,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Mag_AKM_Palm30Rnd_Black">
+	<type name="Mag_AKM_Palm30Rnd_Black">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -11639,7 +11639,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_AKM_Palm30Rnd_Green">
+	<type name="Mag_AKM_Palm30Rnd_Green">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -11651,7 +11651,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_Aug_30Rnd">
+	<type name="Mag_Aug_30Rnd">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -11744,7 +11744,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_CMAG_30Rnd">
+	<type name="Mag_CMAG_30Rnd">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -11758,7 +11758,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Mag_CMAG_30Rnd_Black">
+	<type name="Mag_CMAG_30Rnd_Black">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -11770,7 +11770,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_CMAG_30Rnd_Green">
+	<type name="Mag_CMAG_30Rnd_Green">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -11782,7 +11782,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_CMAG_40Rnd">
+	<type name="Mag_CMAG_40Rnd">	<!--	ECONOMIA	-->
 		<nominal>5</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -11796,7 +11796,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Mag_CMAG_40Rnd_Black">
+	<type name="Mag_CMAG_40Rnd_Black">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -11808,7 +11808,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_CMAG_40Rnd_Green">
+	<type name="Mag_CMAG_40Rnd_Green">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -11820,7 +11820,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_CZ527_5rnd">
+	<type name="Mag_CZ527_5rnd">	<!--	ECONOMIA	-->
 		<nominal>50</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -11834,7 +11834,7 @@
 		<usage name="Village"/>
 		<usage name="Hunting"/>
 	</type>
-	<type name="Mag_CZ550_10Rnd">
+	<type name="Mag_CZ550_10Rnd">	<!--	ECONOMIA	-->
 		<nominal>25</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
@@ -11886,7 +11886,7 @@
 		<usage name="Police"/>
 		<usage name="Town"/>
 	</type>
-	<type name="Mag_FAL_20Rnd">
+	<type name="Mag_FAL_20Rnd">	<!--	ECONOMIA	-->
 		<nominal>5</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -11900,7 +11900,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Mag_FAMAS_25Rnd">
+	<type name="Mag_FAMAS_25Rnd">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -12009,7 +12009,7 @@
 		<usage name="Town"/>
 		<usage name="Village"/>
 	</type>
-	<type name="Mag_PP19_64Rnd">
+	<type name="Mag_PP19_64Rnd">	<!--	ECONOMIA	-->
 		<nominal>25</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -12051,7 +12051,7 @@
 		<usage name="Town"/>
 		<usage name="Village"/>
 	</type>
-	<type name="Mag_SSG82_5rnd">
+	<type name="Mag_SSG82_5rnd">	<!--	ECONOMIA	-->
 		<nominal>45</nominal>
 		<lifetime>14400</lifetime>
 		<restock>900</restock>
@@ -12065,7 +12065,7 @@
 		<usage name="Police"/>
 		<usage name="Prison"/>
 	</type>
-	<type name="Mag_STANAG_30Rnd">
+	<type name="Mag_STANAG_30Rnd">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -12079,7 +12079,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Mag_STANAG_60Rnd">
+	<type name="Mag_STANAG_60Rnd">	<!--	ECONOMIA	-->
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -12094,7 +12094,7 @@
 		<usage name="Underground"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Mag_STANAGCoupled_30Rnd">
+	<type name="Mag_STANAGCoupled_30Rnd">	<!--	ECONOMIA	-->
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
@@ -12106,7 +12106,7 @@
 		<category name="weapons"/>
 		<usage name="Military"/>
 	</type>
-	<type name="Mag_SVD_10Rnd">
+	<type name="Mag_SVD_10Rnd">	<!--	ECONOMIA	-->
 		<nominal>5</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -12148,7 +12148,7 @@
 		<value name="Tier2"/>
 		<value name="Tier3"/>
 	</type>
-	<type name="Mag_Saiga_Drum20Rnd">
+	<type name="Mag_Saiga_Drum20Rnd">	<!--	ECONOMIA	-->
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -12188,7 +12188,7 @@
 		<usage name="Military"/>
 		<usage name="Police"/>
 	</type>
-	<type name="Mag_VAL_20Rnd">
+	<type name="Mag_VAL_20Rnd">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>14400</lifetime>
 		<restock>900</restock>
@@ -12244,7 +12244,7 @@
 		<usage name="Town"/>
 		<usage name="Village"/>
 	</type>
-	<type name="MakarovPBSuppressor">
+	<type name="MakarovPBSuppressor">	<!--	ECONOMIA	-->
 		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
@@ -12593,7 +12593,7 @@
 		<usage name="Industrial"/>
 		<usage name="Farm"/>
 	</type>
-	<type name="Mich2001Helmet">
+	<type name="Mich2001Helmet">	<!--	ECONOMIA	-->
 		<nominal>5</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -12895,7 +12895,7 @@
 		<tag name="shelves"/>
 		<usage name="Medic"/>
 	</type>
-	<type name="Mosin9130">
+	<type name="Mosin9130">	<!--	ECONOMIA	-->
 		<nominal>25</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -12910,7 +12910,7 @@
 		<usage name="Village"/>
 		<value name="Tier1"/>
 	</type>
-	<type name="Mosin9130_Black">
+	<type name="Mosin9130_Black">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -12925,7 +12925,7 @@
 		<usage name="Village"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Mosin9130_Camo">
+	<type name="Mosin9130_Camo">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -12940,7 +12940,7 @@
 		<usage name="Village"/>
 		<value name="Tier2"/>
 	</type>
-	<type name="Mosin9130_Green">
+	<type name="Mosin9130_Green">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -13324,7 +13324,7 @@
 		<usage name="Firefighter"/>
 		<usage name="Underground"/>
 	</type>
-	<type name="NVGHeadstrap">
+	<type name="NVGHeadstrap">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
@@ -13340,7 +13340,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="NVGoggles">
+	<type name="NVGoggles">	<!--	ECONOMIA	-->
 		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
@@ -13747,7 +13747,7 @@
 		<usage name="Town"/>
 		<usage name="Village"/>
 	</type>
-	<type name="PP19">
+	<type name="PP19">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -14055,7 +14055,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="food"/>
 	</type>
-	<type name="Pen_Black">
+	<type name="Pen_Black">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
@@ -14074,7 +14074,7 @@
 		<usage name="Town"/>
 		<usage name="Underground"/>
 	</type>
-	<type name="Pen_Blue">
+	<type name="Pen_Blue">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
@@ -14093,7 +14093,7 @@
 		<usage name="Town"/>
 		<usage name="Underground"/>
 	</type>
-	<type name="Pen_Green">
+	<type name="Pen_Green">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
@@ -14112,7 +14112,7 @@
 		<usage name="Town"/>
 		<usage name="Underground"/>
 	</type>
-	<type name="Pen_Red">
+	<type name="Pen_Red">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
@@ -14279,7 +14279,7 @@
 		<category name="weapons"/>
 		<usage name="Hunting"/>
 	</type>
-	<type name="PistolSuppressor">
+	<type name="PistolSuppressor">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -14380,7 +14380,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="tools"/>
 	</type>
-	<type name="Plastic_Explosive">
+	<type name="Plastic_Explosive">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
@@ -14523,7 +14523,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="PlateCarrierVest">
+	<type name="PlateCarrierVest">	<!--	ECONOMIA	-->
 		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
@@ -14536,7 +14536,7 @@
 		<usage name="Military"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="PlateCarrierVest_Black">
+	<type name="PlateCarrierVest_Black">	<!--	ECONOMIA	-->
 		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
@@ -14548,7 +14548,7 @@
 		<category name="clothes"/>
 		<usage name="Underground"/>
 	</type>
-	<type name="PlateCarrierVest_Camo">
+	<type name="PlateCarrierVest_Camo">	<!--	ECONOMIA	-->
 		<nominal>5</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -14560,7 +14560,7 @@
 		<category name="clothes"/>
 		<usage name="ContaminatedArea"/>
 	</type>
-	<type name="PlateCarrierVest_Green">
+	<type name="PlateCarrierVest_Green">	<!--	ECONOMIA	-->
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
@@ -15073,7 +15073,7 @@
 		<category name="explosives"/>
 		<usage name="Military"/>
 	</type>
-	<type name="RGD5Grenade">
+	<type name="RGD5Grenade">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -15359,7 +15359,7 @@
 		<usage name="Village"/>
 		<usage name="Lunapark"/>
 	</type>
-	<type name="RemoteDetonator">
+	<type name="RemoteDetonator">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
@@ -15535,7 +15535,7 @@
 		<value name="Tier2"/>
 		<value name="Tier3"/>
 	</type>
-	<type name="SSG82">
+	<type name="SSG82">	<!--	ECONOMIA	-->
 		<nominal>20</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -15552,7 +15552,7 @@
 		<value name="Tier2"/>
 		<value name="Tier3"/>
 	</type>
-	<type name="SVD">
+	<type name="SVD">	<!--	ECONOMIA	-->
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
@@ -15564,7 +15564,7 @@
 		<category name="weapons"/>
 		<usage name="Special"/>
 	</type>
-	<type name="Saiga">
+	<type name="Saiga">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -15718,7 +15718,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="weapons"/>
 	</type>
-	<type name="SawedoffFAMAS">
+	<type name="SawedoffFAMAS">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -15822,7 +15822,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="weapons"/>
 	</type>
-	<type name="Scout">
+	<type name="Scout">	<!--	ECONOMIA	-->
 		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -15838,7 +15838,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Scout_Chernarus">
+	<type name="Scout_Chernarus">	<!--	ECONOMIA	-->
 		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -15854,7 +15854,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Scout_Livonia">
+	<type name="Scout_Livonia">	<!--	ECONOMIA	-->
 		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -18577,7 +18577,7 @@
 		<category name="clothes"/>
 		<usage name="Military"/>
 	</type>
-	<type name="UMP45">
+	<type name="UMP45">	<!--	ECONOMIA	-->
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
@@ -18727,7 +18727,7 @@
 		<category name="clothes"/>
 		<usage name="Village"/>
 	</type>
-	<type name="VSS">
+	<type name="VSS">	<!--	ECONOMIA	-->
 		<nominal>5</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -18951,7 +18951,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 		<category name="tools"/>
 	</type>
-	<type name="Winchester70">
+	<type name="Winchester70">	<!--	ECONOMIA	-->
 		<nominal>10</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
@@ -18966,7 +18966,7 @@
 		<value name="Tier3"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Winchester70_Black">
+	<type name="Winchester70_Black">	<!--	ECONOMIA	-->
 		<nominal>1</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
@@ -18979,7 +18979,7 @@
 		<usage name="Hunting"/>
 		<value name="Tier4"/>
 	</type>
-	<type name="Winchester70_Green">
+	<type name="Winchester70_Green">	<!--	ECONOMIA	-->
 		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
