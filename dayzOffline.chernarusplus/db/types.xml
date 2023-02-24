@@ -73,7 +73,7 @@
 		<value name="Tier4"/>
 	</type>
 	<type name="AK74">	<!--	ECONOMIA	-->
-		<nominal>10</nominal>
+		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
 		<restock>1800</restock>
 		<min>5</min>
@@ -87,7 +87,7 @@
 		<value name="Tier3"/>
 	</type>
 	<type name="AK74_Black">	<!--	ECONOMIA	-->
-		<nominal>1</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
 		<min>1</min>
@@ -103,7 +103,7 @@
 		<value name="Tier4"/>
 	</type>
 	<type name="AK74_Green">	<!--	ECONOMIA	-->
-		<nominal>1</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
 		<min>1</min>
@@ -1092,7 +1092,7 @@
 		<usage name="Underground"/>
 	</type>
 	<type name="Ammo_40mm_Explosive">	<!--	ECONOMIA	-->
-		<nominal>10</nominal>
+		<nominal>20</nominal>
 		<lifetime>14400</lifetime>
 		<restock>3600</restock>
 		<min>1</min>
@@ -1102,7 +1102,6 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="explosives"/>
 		<usage name="ContaminatedArea"/>
-		<usage name="Military"/>
 		<usage name="Underground"/>
 		<value name="Tier2"/>
 		<value name="Tier3"/>
@@ -11079,6 +11078,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="weapons"/>
+		<usage name="ContaminatedArea"/>
 		<usage name="Special"/>
 		<usage name="Underground"/>
 	</type>
@@ -11092,6 +11092,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="weapons"/>
+		<usage name="ContaminatedArea"/>
 		<usage name="Special"/>
 		<usage name="Underground"/>
 	</type>
@@ -11204,7 +11205,7 @@
 		<usage name="Military"/>
 	</type>
 	<type name="M4_Suppressor">	<!--	ECONOMIA	-->
-		<nominal>1</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
 		<min>1</min>
@@ -11279,7 +11280,7 @@
 		<usage name="Military"/>
 	</type>
 	<type name="M67Grenade">	<!--	ECONOMIA	-->
-		<nominal>15</nominal>
+		<nominal>20</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
 		<min>1</min>
@@ -12245,7 +12246,7 @@
 		<usage name="Village"/>
 	</type>
 	<type name="MakarovPBSuppressor">	<!--	ECONOMIA	-->
-		<nominal>1</nominal>
+		<nominal>2</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>1</min>
@@ -12254,6 +12255,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="weapons"/>
+		<usage name="ContaminatedArea"/>
 		<usage name="Underground"/>
 	</type>
 	<type name="ManSuit_Beige">
@@ -12603,6 +12605,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="clothes"/>
+		<usage name="ContaminatedArea"/>
 		<usage name="Military"/>
 		<usage name="Underground"/>
 		<value name="Tier3"/>
@@ -14524,7 +14527,7 @@
 		<value name="Tier4"/>
 	</type>
 	<type name="PlateCarrierVest">	<!--	ECONOMIA	-->
-		<nominal>1</nominal>
+		<nominal>3</nominal>
 		<lifetime>28800</lifetime>
 		<restock>7200</restock>
 		<min>1</min>
@@ -14534,6 +14537,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="clothes"/>
 		<usage name="Military"/>
+		<usage name="Special"/>
 		<value name="Tier4"/>
 	</type>
 	<type name="PlateCarrierVest_Black">	<!--	ECONOMIA	-->
@@ -14549,7 +14553,7 @@
 		<usage name="Underground"/>
 	</type>
 	<type name="PlateCarrierVest_Camo">	<!--	ECONOMIA	-->
-		<nominal>5</nominal>
+		<nominal>2</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>1</min>
@@ -14558,6 +14562,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="clothes"/>
+		<usage name="Special"/>
 		<usage name="ContaminatedArea"/>
 	</type>
 	<type name="PlateCarrierVest_Green">	<!--	ECONOMIA	-->
@@ -15074,7 +15079,7 @@
 		<usage name="Military"/>
 	</type>
 	<type name="RGD5Grenade">	<!--	ECONOMIA	-->
-		<nominal>15</nominal>
+		<nominal>20</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
 		<min>1</min>
@@ -15360,7 +15365,7 @@
 		<usage name="Lunapark"/>
 	</type>
 	<type name="RemoteDetonator">	<!--	ECONOMIA	-->
-		<nominal>15</nominal>
+		<nominal>20</nominal>
 		<lifetime>28800</lifetime>
 		<restock>5400</restock>
 		<min>15</min>
@@ -15370,6 +15375,7 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="explosives"/>
 		<usage name="ContaminatedArea"/>
+		<usage name="Special"/>
 		<usage name="Underground"/>
 	</type>
 	<type name="RemoteDetonatorReceiver">
@@ -15728,6 +15734,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="weapons"/>
+		<usage name="ContaminatedArea"/>
 		<usage name="Police"/>
 		<usage name="Military"/>
 		<usage name="Underground"/>
