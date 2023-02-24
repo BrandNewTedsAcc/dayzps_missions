@@ -50,7 +50,7 @@
 		"lightingConfig": true,
 		"objectSpawnersArr": 
 		[
-			"custom/MapaTerminadoAtualizado.json",
+			"custom/MapaTerminado.json",
 			"custom/BlackMarket.json",
 			"custom/BunkerNorthNoWater.json",
 			"custom/ProdutosBlackMarket.json",
