@@ -766,9 +766,9 @@
 		</children>
 	</event>
 	<event name="StaticContaminatedArea">
-		<nominal>0</nominal> <!-- QUANTIDADE NO MAPA -->
+		<nominal>3</nominal> <!-- QUANTIDADE NO MAPA -->
 		<min>0</min> <!-- QUANTIDADE MÍNIMA NO MAPA -->
-		<max>0</max> <!-- QUANTIDADE MÁXIMA NO MAPA -->
+		<max>3</max> <!-- QUANTIDADE MÁXIMA NO MAPA -->
 		<lifetime>1800</lifetime>
 		<restock>0</restock>
 		<saferadius>0</saferadius>
