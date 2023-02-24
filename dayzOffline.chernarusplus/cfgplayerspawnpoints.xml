@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playerspawnpoints>
+    <!--
+        Spawn points settings for newly created player characters
+    -->
+    <fresh>
+        <!-- runtime parameters used when player is spawning -->
+        <spawn_params>
+            <!-- used to rate point against infected -->
+            <min_dist_infected>1.0</min_dist_infected>
+            <max_dist_infected>1.0</max_dist_infected>
+            <!-- used to rate point against other players -->
+            <min_dist_player>1.0</min_dist_player>
+            <max_dist_player>1.0</max_dist_player>
+            <!-- used to rate point against buildings -->
+            <min_dist_static>1.0</min_dist_static>
+            <max_dist_static>1.0</max_dist_static>
+        </spawn_params>
+
+        <!--
+            Generator parameters
+
+            Spawn points are generated around positions given inside <generator_posbubbles> element.
+            Around every position is created a rectangle with given dimensions.
+            This rectangle is then sampled for spawn point candidates in form of a grid.
+        -->
+        <generator_params>
+            <grid_density>8</grid_density>
+            <!-- total width of grid in metres -->
+            <grid_width>40.0</grid_width>
+            <!-- total height of grid in metres -->
+            <grid_height>40.0</grid_height>
+            <!--  minimum distance from buildings for valid spawn point -->
+            <min_dist_static>0.5</min_dist_static>
+            <!--  maximum distance from buildings used to rate valid spawn point -->
+            <max_dist_static>2.0</max_dist_static>
+            <!-- terrain slope limits for valid spawn point -->
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+
+        <!-- centers for grids of spawn points -->
+        <generator_posbubbles>
+
+				<!-- Eletro -->	
+			<pos x="10427.16" z="1916.70" />
+			<pos x="10565.22" z="2031.42" />
+			<pos x="9664.96" z="2190.87" />
+			<pos x="10916.18" z="2612.81" />
+			 
+				<!-- Kamy -->
+			<pos x="11847.54" z="3474.20" />
+			<pos x="12353.08" z="3476.14" />
+				
+				<!-- Depois de Kamishovo -->
+			<pos x="13439.02" z="5371.00" />
+			
+				<!-- Solnishy -->
+			<pos x="13544.02" z="6085.58" />
+			<pos x="13489.58" z="6532.80" />
+
+				<!-- Niznoi -->
+			<pos x="13082.23" z="7934.74" />
+			<pos x="12812.93" z="8011.54" />
+				
+				<!-- Berezino -->
+			<pos x="12997.65" z="9486.40" />
+			<pos x="13190.14" z="10223.34" />
+			<pos x="13205.70" z="10427.51" />
+			
+				<!-- Cherno -->
+			<pos x="5877.29" z="2181.39" />
+			<pos x="6631.23" z="2606.00" />
+			<pos x="8087.58" z="3136.35" />
+			<pos x="8037.51" z="2870.93" />
+				
+				<!-- Svetlo -->
+			<pos x="14324.69" z="13325.69" />
+			<pos x="14077.75" z="13428.75" />
+
+				<!-- Special -->
+			<pos x="5068.43" z="2040.50" />
+			<pos x="4320.81" z="2351.79" />
+			<pos x="3816.24" z="2410.16" />
+			<pos x="15043.14" z="14464.73" />
+
+        </generator_posbubbles>
+    </fresh>
+
+    <!--
+        Spawn points settings for server hoppers
+    -->
+    <hop>
+        <generator_posbubbles>
+
+				<!-- Eletro -->	
+			<pos x="10427.16" z="1916.70" />
+			<pos x="10565.22" z="2031.42" />
+			<pos x="9664.96" z="2190.87" />
+			<pos x="10916.18" z="2612.81" />
+			 
+				<!-- Kamy -->
+			<pos x="11847.54" z="3474.20" />
+			<pos x="12353.08" z="3476.14" />
+				
+				<!-- Depois de Kamishovo -->
+			<pos x="13439.02" z="5371.00" />
+			
+				<!-- Solnishy -->
+			<pos x="13544.02" z="6085.58" />
+			<pos x="13489.58" z="6532.80" />
+
+				<!-- Niznoi -->
+			<pos x="13082.23" z="7934.74" />
+			<pos x="12812.93" z="8011.54" />
+				
+				<!-- Berezino -->
+			<pos x="12997.65" z="9486.40" />
+			<pos x="13190.14" z="10223.34" />
+			<pos x="13205.70" z="10427.51" />
+			
+				<!-- Cherno -->
+			<pos x="5877.29" z="2181.39" />
+			<pos x="6631.23" z="2606.00" />
+			<pos x="8087.58" z="3136.35" />
+			<pos x="8037.51" z="2870.93" />
+				
+				<!-- Svetlo -->
+			<pos x="14324.69" z="13325.69" />
+			<pos x="14077.75" z="13428.75" />
+
+				<!-- Special -->
+			<pos x="5068.43" z="2040.50" />
+			<pos x="4320.81" z="2351.79" />
+			<pos x="3816.24" z="2410.16" />
+			<pos x="15043.14" z="14464.73" />
+
+        </generator_posbubbles>
+    </hop>
+
+    <!--
+        Spawn points settings for travellers
+    -->
+    <travel>
+        <generator_posbubbles>
+			
+				<!-- Eletro -->	
+			<pos x="10427.16" z="1916.70" />
+			<pos x="10565.22" z="2031.42" />
+			<pos x="9664.96" z="2190.87" />
+			<pos x="10916.18" z="2612.81" />
+			 
+				<!-- Kamy -->
+			<pos x="11847.54" z="3474.20" />
+			<pos x="12353.08" z="3476.14" />
+				
+				<!-- Depois de Kamishovo -->
+			<pos x="13439.02" z="5371.00" />
+			
+				<!-- Solnishy -->
+			<pos x="13544.02" z="6085.58" />
+			<pos x="13489.58" z="6532.80" />
+
+				<!-- Niznoi -->
+			<pos x="13082.23" z="7934.74" />
+			<pos x="12812.93" z="8011.54" />
+				
+				<!-- Berezino -->
+			<pos x="12997.65" z="9486.40" />
+			<pos x="13190.14" z="10223.34" />
+			<pos x="13205.70" z="10427.51" />
+			
+				<!-- Cherno -->
+			<pos x="5877.29" z="2181.39" />
+			<pos x="6631.23" z="2606.00" />
+			<pos x="8087.58" z="3136.35" />
+			<pos x="8037.51" z="2870.93" />
+				
+				<!-- Svetlo -->
+			<pos x="14324.69" z="13325.69" />
+			<pos x="14077.75" z="13428.75" />
+
+				<!-- Special -->
+			<pos x="5068.43" z="2040.50" />
+			<pos x="4320.81" z="2351.79" />
+			<pos x="3816.24" z="2410.16" />
+			<pos x="15043.14" z="14464.73" />
+
+        </generator_posbubbles>
+    </travel>
+</playerspawnpoints>

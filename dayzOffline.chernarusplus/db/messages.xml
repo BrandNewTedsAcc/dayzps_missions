@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+	<message>
+		<delay>1</delay>
+		<repeat>20</repeat>
+		<onconnect>1</onconnect>
+		<text>Bem vindo ao VanillaZ, mantenha-se informado sobre o que está acontecendo no servidor pelo discord.gg/KNuywcvuZU </text>
+	</message>
+	<message>
+		<repeat>5</repeat>
+		<text>Dúvidas, Reclamações ou Sugestões? Só aparecer no discord.gg/KNuywcvuZU </text>
+	</message>
+<!--<message>
+		<repeat>5.1</repeat>
+		<text>Dano a estruturas ligado nas QUARTAS das 20h às 22h e nos SÁBADOS das 20h até as 24h </text>
+	</message> -->
+	<message>
+		<repeat>5.1</repeat>
+		<text>Não haverá raid na primeira semana do servidor </text>
+	</message>
+	<message>
+		<repeat>8</repeat>
+		<text>Se você apertar M no teclado o mapa irá abrir sem precisar de nada :D </text>
+	</message>
+<!--<message>
+		<repeat>8.1</repeat>
+		<text>Permitido raid por pézinho, falha na construção e desmontando TODOS OS DIAS, das 10h até as 22h </text>
+	</message> -->
+	<message>
+		<repeat>20</repeat>
+		<text>CARROS SÃO EXTREMAMENTE BUGADOS, EVITE GUARDAR LOOT DENTRO PARA NÃO PERDER NADA DE IMPORTANTE </text>
+	</message>
+	<message>
+		<repeat>20.1</repeat>
+		<text>PROIBIDO ROUBAR BASE E COLOCAR CADEADO NA BASE DE OUTROS JOGADORES, BATER CADEADO SOMENTE EM HORÁIRO DE RAID </text>
+	</message>
+</messages>
