@@ -615,6 +615,9 @@
 		<zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="5" x="1272.6" z="11410.1" r="50"/>
 	</territory>
 	<territory color="1124502272">
+		<zone name="InfectedArmyHard" smin="3" smax="5" dmin="6" dmax="13" x="628.13" z="10953.75" r="110"/>
+		<zone name="InfectedArmyHard" smin="3" smax="5" dmin="6" dmax="13" x="15308.91" z="14332.50" r="110"/>
+		<zone name="InfectedArmyHard" smin="3" smax="5" dmin="6" dmax="13" x="12249.84" z="9735.47" r="110"/>
 		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="7971.43" z="14642.8" r="110"/>
 		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="14" x="7781.25" z="14780.3" r="120"/>
 		<zone name="InfectedArmyHard" smin="6" smax="8" dmin="8" dmax="12" x="1684.51" z="14254.8" r="160"/>
